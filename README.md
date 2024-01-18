@@ -1,5 +1,5 @@
 ![download (1)](https://github.com/avoy-das/avoy-das/assets/145771204/ebb0dfdd-c83b-45c3-b778-5af8c3d199ce)
-_**A wannabe software engineer**_
+> _**A wannabe software engineer**_
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
