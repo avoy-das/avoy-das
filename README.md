@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 [![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/infernus149)
+[<img alt='🐝Beecrowd' src='https://img.shields.io/badge/🐝Beecrowd-blueviolet.svg?style=for-the-badge&logo=&logoColor' />](https://www.beecrowd.com.br/judge/en/profile/909794)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avoy-das/)
 [<img alt='🎓NSTU' src='https://img.shields.io/badge/🎓NSTU-blue.svg?style=for-the-badge&logo=&logoColor' />](https://nstu.edu.bd/)
 [![resize-170560810411564705846718942removebgpreview](https://github.com/avoy-das/avoy-das/assets/145771204/62c17efa-172b-4ec0-adab-e4b83b58273d)](https://nstu.edu.bd/IIT.html)
