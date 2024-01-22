@@ -9,4 +9,4 @@
 [![resize-170560810411564705846718942removebgpreview](https://github.com/avoy-das/avoy-das/assets/145771204/62c17efa-172b-4ec0-adab-e4b83b58273d)](https://nstu.edu.bd/IIT.html)
 ![resize-17056084601824321802nstulogo](https://github.com/avoy-das/avoy-das/assets/145771204/bad59f0b-5161-4558-ac23-f6e84b5c59b8)
 
-
+![avoy-das's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoy-das&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
