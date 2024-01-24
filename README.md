@@ -2,7 +2,7 @@
 > _**A wannabe software engineer**_
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
-[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/infernus149)
+[![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/avoy406)
 [<img alt='🐝Beecrowd' src='https://img.shields.io/badge/🐝Beecrowd-blueviolet.svg?style=for-the-badge&logo=&logoColor' />](https://www.beecrowd.com.br/judge/en/profile/909794)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avoy-das/)
 [<img alt='🎓NSTU' src='https://img.shields.io/badge/🎓NSTU-blue.svg?style=for-the-badge&logo=&logoColor' />](https://nstu.edu.bd/)
