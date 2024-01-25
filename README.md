@@ -1,4 +1,4 @@
-![InShot_20240126_023211725](https://github.com/avoy-das/avoy-das/assets/145771204/ce8867d9-f959-4c0e-a03d-fe9bb983b427)
+![InShot_20240126_025914567](https://github.com/avoy-das/avoy-das/assets/145771204/ea6517fb-06b2-4df9-8cf7-6bd259c09def)
 > _**A wannabe software engineer**_
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
@@ -9,4 +9,4 @@
 [![resize-170560810411564705846718942removebgpreview](https://github.com/avoy-das/avoy-das/assets/145771204/62c17efa-172b-4ec0-adab-e4b83b58273d)](https://nstu.edu.bd/IIT.html)
 ![resize-17056084601824321802nstulogo](https://github.com/avoy-das/avoy-das/assets/145771204/bad59f0b-5161-4558-ac23-f6e84b5c59b8)
 
-![avoy-das's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoy-das&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+![avoy-das's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoy-das&theme=blueberry&show_icons=true&hide_border=true&layout=compact)![avoy-das's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoy-das&theme=react&show_icons=true&hide_border=true&layout=compact)
