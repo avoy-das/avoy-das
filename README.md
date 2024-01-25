@@ -1,4 +1,4 @@
-![download (1)](https://github.com/avoy-das/avoy-das/assets/145771204/ebb0dfdd-c83b-45c3-b778-5af8c3d199ce)
+![InShot_20240126_023211725](https://github.com/avoy-das/avoy-das/assets/145771204/ce8867d9-f959-4c0e-a03d-fe9bb983b427)
 > _**A wannabe software engineer**_
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
